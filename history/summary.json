@@ -22,18 +22,20 @@
     "url": "https://sso.nexaorion.tech",
     "icon": "https://icons.duckduckgo.com/ip3/sso.nexaorion.tech.ico",
     "slug": "iam-system",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 3127,
     "timeDay": 3127,
     "timeWeek": 3127,
     "timeMonth": 3127,
     "timeYear": 3127,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-09": 0
+    }
   },
   {
     "name": "Mail Server",
@@ -58,18 +60,20 @@
     "url": "https://iam-waf.nexaorion.tech",
     "icon": "https://icons.duckduckgo.com/ip3/iam-waf.nexaorion.tech.ico",
     "slug": "waf",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1147,
     "timeDay": 1147,
     "timeWeek": 1147,
     "timeMonth": 1147,
     "timeYear": 1147,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-09": 0
+    }
   },
   {
     "name": "Docs",
@@ -77,18 +81,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/docs.lanko.space.ico",
     "slug": "docs",
     "status": "up",
-    "uptime": "95.74%",
-    "uptimeDay": "95.74%",
-    "uptimeWeek": "95.74%",
-    "uptimeMonth": "95.74%",
-    "uptimeYear": "95.74%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2614,
     "timeDay": 2614,
     "timeWeek": 2614,
     "timeMonth": 2614,
     "timeYear": 2614,
-    "dailyMinutesDown": {
-      "2025-09-09": 10
-    }
+    "dailyMinutesDown": {}
   }
 ]
