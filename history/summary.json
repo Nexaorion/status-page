@@ -22,19 +22,19 @@
     "url": "https://sso.nexaorion.tech",
     "icon": "https://icons.duckduckgo.com/ip3/sso.nexaorion.tech.ico",
     "slug": "iam-system",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 3127,
-    "timeDay": 3127,
-    "timeWeek": 3127,
-    "timeMonth": 3127,
-    "timeYear": 3127,
+    "status": "up",
+    "uptime": "98.01%",
+    "uptimeDay": "98.01%",
+    "uptimeWeek": "98.01%",
+    "uptimeMonth": "98.01%",
+    "uptimeYear": "98.01%",
+    "time": 3028,
+    "timeDay": 3028,
+    "timeWeek": 3028,
+    "timeMonth": 3028,
+    "timeYear": 3028,
     "dailyMinutesDown": {
-      "2025-09-09": 0
+      "2025-09-09": 21
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "https://iam-waf.nexaorion.tech",
     "icon": "https://icons.duckduckgo.com/ip3/iam-waf.nexaorion.tech.ico",
     "slug": "waf",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1147,
-    "timeDay": 1147,
-    "timeWeek": 1147,
-    "timeMonth": 1147,
-    "timeYear": 1147,
+    "status": "up",
+    "uptime": "98.04%",
+    "uptimeDay": "98.04%",
+    "uptimeWeek": "98.04%",
+    "uptimeMonth": "98.04%",
+    "uptimeYear": "98.04%",
+    "time": 1125,
+    "timeDay": 1125,
+    "timeWeek": 1125,
+    "timeMonth": 1125,
+    "timeYear": 1125,
     "dailyMinutesDown": {
-      "2025-09-09": 0
+      "2025-09-09": 21
     }
   },
   {
