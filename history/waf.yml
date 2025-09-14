@@ -1,7 +1,7 @@
 url: https://iam-waf.nexaorion.tech
-status: up
-code: 200
-responseTime: 2202
-lastUpdated: 2025-09-14T23:28:04.352Z
+status: down
+code: 525
+responseTime: 10918
+lastUpdated: 2025-09-14T23:39:17.167Z
 startTime: 2025-09-09T03:44:29.969Z
 generator: Upptime <https://github.com/upptime/upptime>
