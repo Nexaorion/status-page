@@ -1,7 +1,7 @@
 url: https://sso.nexaorion.tech
-status: up
-code: 200
-responseTime: 16566
-lastUpdated: 2025-09-26T21:27:10.358Z
+status: down
+code: 525
+responseTime: 22039
+lastUpdated: 2025-09-26T21:37:35.840Z
 startTime: 2025-09-09T03:44:25.403Z
 generator: Upptime <https://github.com/upptime/upptime>
